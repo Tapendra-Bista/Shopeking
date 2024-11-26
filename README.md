@@ -1,4 +1,4 @@
-# This is an online shopping app where I work as a moderator for the user interface on a freelance project.
+# This is an online shopping app where I work as a moderator for the user interface .
 
 # output 
 ![Screenshot (55)](https://github.com/Tapendra-Bista/Shopeking/assets/119024299/a85e0d5a-6fe2-4d6e-acc7-932b7aeb3b10)
